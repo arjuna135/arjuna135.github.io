@@ -1,0 +1,27 @@
+#aslogo {
+    max-height: 64px;
+    width: auto;
+}
+
+.padding10 {
+    margin: 5px;
+    padding: 5px;
+}
+
+.unfavorite {
+    border: 3px solid grey;
+}
+
+.favorite {
+    border: 3px solid red;
+}
+
+.title {
+    font-weight: bold;
+    text-align: center;
+}
+
+.crest {
+    width:160px;
+    height:160px;
+  }

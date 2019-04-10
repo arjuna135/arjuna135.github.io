@@ -1,0 +1,22 @@
+{
+    "name": "anggastudio web",
+    "short_name": "as web",
+    "description": "Aplikasi PWA anggastudio",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#00892b",
+    "theme_color": "#00892b",
+    "icons": [
+        {
+            "src": "asicon-144.png",
+            "sizes": "144x144",
+            "type": "image/png"
+        },
+        {
+            "src": "asicon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "gcm_sender_id": "781597253782"
+}
